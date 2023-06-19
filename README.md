@@ -5,7 +5,7 @@
 <h1 align="center">ChirpApp</h1>
 
 <p align="center">
-  <strong>🌈 A Colorful Web Chatroom App 🌈</strong>
+  <strong>🔥 A Colorful Web Chatroom App 🔥</strong>
 </p>
 
 <p align="center">
